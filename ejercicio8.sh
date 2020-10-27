@@ -1,6 +1,4 @@
 #!/bin/bash
-
-
 # Información del procesador
 procesador() {
 echo "Mostrando información sobre el procesador."
